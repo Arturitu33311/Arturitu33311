@@ -6,7 +6,7 @@ Entusiasta de la tecnología y fundador de **[Zynara](https://getzynara.com)**. 
 
 ### 🚀 El ecosistema
 *   **[Zynara](https://getzynara.com):** IA B2C desarrollada bajo infraestructura autogestionada (Self-hosted + Docker + Cloudflare).
-*   **[Jinx-Workspace](https://github.com/Arturitu33311/jinx-workspace):** Mi centro de comando. Un entorno operativo autónomo mediante [Hermes Agent](https://github.com/NousResearch/hermes-agent), automatizando mi servidor Debian 24/7.
+*   **[Jinx](https://github.com/Arturitu33311/jinx-agent):** Mi centro de comando. Un entorno operativo autónomo mediante [Hermes Agent](https://github.com/NousResearch/hermes-agent), automatizando mi servidor Debian 24/7.
 
 ---
 
